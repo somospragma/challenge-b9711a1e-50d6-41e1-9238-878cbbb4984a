@@ -1,0 +1,10 @@
+-- Inicialización de la base de datos (MongoDB no usa SQL, pero se incluye como ejemplo)
+-- CREATE DATABASE IF NOT EXISTS inventory;
+-- USE inventory;
+-- CREATE TABLE IF NOT EXISTS products (
+--     id VARCHAR(255) PRIMARY KEY,
+--     name VARCHAR(255),
+--     description TEXT,
+--     price DECIMAL(10, 2),
+--     stock INT
+-- );
